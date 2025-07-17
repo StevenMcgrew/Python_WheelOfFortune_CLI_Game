@@ -1,4 +1,4 @@
-# Python_WheelOfFortune_CLI_Game
+# Python Wheel of Fortune CLI Game
 A text based Wheel of Fortune CLI game written in Python.
 
 ### To play the game:
